@@ -1,0 +1,28 @@
+
+.header-logo{
+    padding: 16px 24px 16px 24px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 32px;
+    font-family: serif;
+}
+.header-list{
+    font-size: 16px;
+    font-family: serif;
+}
+.body{
+    font-family: serif;
+    display: block;
+}
+.a:visited{
+  color: #000000;
+}
+.title-1,.title-2,.title-3,.title-4{
+    font-size: 24px;
+    border-top: 2px solid #000000;
+}
+.a{
+    padding-left: 24px;
+    font-size: 16px;
+    color: #000000;
+}
